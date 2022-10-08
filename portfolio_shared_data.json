@@ -1,0 +1,94 @@
+{
+    "basic_info": {
+      "name": "Chris Turcios",
+      "titles": [ "Software Engineer","Front-end Developer", "Back-end Developer", "Fullstack Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/christurc29",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/chris-turcios/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "ChrisPortfolioPic.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "60"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-original",
+          "level": "60"
+        },
+        {
+          "name": "npm",
+          "class": "devicon-npm-original-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "WordPress",
+          "class": "devicon-wordpress-plain",
+          "level": "60"
+        },
+        {
+          "name": "Babel",
+          "class": "devicon-babel-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
