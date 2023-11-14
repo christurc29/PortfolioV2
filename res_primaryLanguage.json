@@ -1,0 +1,240 @@
+{
+    "basic_info": {
+      "description_header": "Hi, I'm Chris!",
+      "description": "Finding solutions to people's problems is what I do. I am software engineer who has a passion for continual learning and improvement. I value both efficiency and a positive user-experience and am always willing to explore new methods, practices, and ideas to ensure these two conditions are met. In past work and personal experiences I have come to witness how technology can greatly improve systems and processes no matter how simple or complex. At the core, this is what keeps me coming back - the ability to help people.I understand the impact and power of technology and feel strongly about making it more accessible. How can I help you with the power of tech?",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "process": "Process"
+      }
+    },
+    "projects": [
+      {
+        "title": "FlickList",
+        "startDate": "2022",
+        "description": "Testing sign-in- Email: test123@test.com Password: testing123. A fullstack, CRUD movie list web application. Keep a personalized list of movies recommended to you. Additionally, find information such as summaries and ratings for movies added via connection to a movie database API.",
+        "images": [
+          "images/portfolio/Flicklist/FlickList.gif",
+          "images/portfolio/Flicklist/FlicklistHome.jpeg",
+          "images/portfolio/Flicklist/FlicklistLogin.jpeg",
+          "images/portfolio/Flicklist/Flicklist1.jpeg",
+          "images/portfolio/Flicklist/Flicklist2.jpeg"
+        ],
+        "url": "https://flicklist.cyclic.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "logos:javascript",
+            "name": "EJS"
+          }
+        ]
+      },
+      {
+        "title": "Treatmeals",
+        "startDate": "2022",
+        "description": "Testing sign-in- Email: testarray123@test.com Password: testing123. Fullstack application made to support a community of users who follow the IIFYM, If It Fits Your Macros, fitness lifestyle. This app will allow users to find and share nutritional information from their favorite restaurants, so they can plan and always fit in some fun foods that align with their macronutrient goals. Users are also able to favorite foods for their own personal reference as well as rate and review foods for the community of other users.",
+        "images": [
+          "images/portfolio/TreatMeals/treatmeals-gif.gif",
+          "images/portfolio/TreatMeals/treatmeals-1.png",
+          "images/portfolio/TreatMeals/treatmeals-2.png",
+          "images/portfolio/TreatMeals/treatmeals-3.png",
+          "images/portfolio/TreatMeals/treatmeals-5.png",
+          "images/portfolio/TreatMeals/treatmeals-6.png",
+          "images/portfolio/TreatMeals/treatmeals-8.png"
+        ],
+        "url": "https://treatmeals.cyclic.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Boozgle",
+        "startDate": "2022",
+        "description": "One of the first apps I created after learning about harnessing the power of APIs! This application will allow the user to find a list of suggested cocktails from an alcoholic ingredient entry (i.e. wine)",
+        "images": [
+          "images/portfolio/Boozgle/boozgle-gif.gif",
+          "images/portfolio/Boozgle/boozgle2.jpeg",
+          "images/portfolio/Boozgle/boozgle3.jpeg"
+        ],
+        "url": "https://boozgle.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Recipe Gen",
+        "startDate": "2022",
+        "description": "This application will allow the user to find recipes to make based on any ingredient entered. Ingredients, instructions, and a link to a relevant YouTube video will also be generated for each recipe. This was completed using a food database API.",
+        "images": [
+          "images/portfolio/RecipeGen/recipe-gen-gif.gif",
+          "images/portfolio/RecipeGen/recipegen2.jpeg",
+          "images/portfolio/RecipeGen/recipegen1.jpeg"
+        ],
+        "url": "https://recipe-gen.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Interi Design",
+        "startDate": "2022",
+        "description": "This website was created for a client with an interior design agency. The client wanted a website that was sleek and modern to reflect the company's branding.",
+        "images": [
+          "images/portfolio/Interi/interi-gif.gif",
+          "images/portfolio/Interi/interi1.png",
+          "images/portfolio/Interi/interi2.png",
+          "images/portfolio/Interi/interi3.png",
+          "images/portfolio/Interi/interi4.png"
+        ],
+        "url": "https://interi-design.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Grounded Resources Yoga",
+        "startDate": "2023",
+        "description": "This website was re-vamped for a client with a pre-existing WordPress website. Client did not want to have to subscribe to any premium services for WordPress so there were several capability limitations. However, we were able to find a happy medium between no paid services and a website she is now proud of.",
+        "images": [
+          "images/portfolio/GroundedResources/gr-gif.gif",
+          "images/portfolio/GroundedResources/gr-1.png",
+          "images/portfolio/GroundedResources/gr-2.png",
+          "images/portfolio/GroundedResources/gr-3.png",
+          "images/portfolio/GroundedResources/gr-4.png"
+        ],
+        "url": "https://groundedresourcesyoga.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "We will have a conversation to outline the details and understand your vision for the project",
+        "title": "Consultation",
+        "years": "",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "Based on our conversation, a detailed project proposal will be presented",
+        "title": "Proposal",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "Your vision is in the works! Clients will receive regular updates as their project is created and tested",
+        "title": "Build",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "The final product is delivered to the client",
+        "title": "Launch",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          
+        ]
+      }
+    ]
+  }
